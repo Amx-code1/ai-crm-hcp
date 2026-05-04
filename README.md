@@ -1,5 +1,7 @@
 # AI-First CRM HCP Module
 
+CRM system that uses data-driven logic to assist healthcare professionals with decision support and workflow management
+
 ## Overview
 This project is an AI-powered CRM module designed for Healthcare Professional (HCP) interaction tracking. It enables users to log, edit, fetch, and analyze interactions using natural language.
 
